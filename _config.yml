@@ -109,11 +109,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "lou"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "a new idea popped into my head."
+  location         : "arpiel"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
