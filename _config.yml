@@ -21,8 +21,8 @@ locale                   : "en-US"
 title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "lou"
-description              : "a new idea popped into my head"
+name                     : "루"
+description              : "새로운 알고리즘이 생각났어!"
 url                      : "lou-arpiel.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,9 +109,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "lou"
+  name             : "루"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "a new idea popped into my head."
+  bio              : "새로운 알고리즘이 생각났어!"
   location         : "arpiel"
   email            : 
   links:
