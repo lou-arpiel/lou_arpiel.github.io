@@ -21,7 +21,7 @@ locale                   : "en-US"
 title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "루"
+name                     : "루체아 포루나 데 실베리온"
 description              : "새로운 알고리즘이 생각났어!"
 url                      : "lou-arpiel.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
@@ -109,7 +109,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "루"
+  name             : "루체아 포루나 데 실베리온"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "새로운 알고리즘이 생각났어!"
   location         : "arpiel"
